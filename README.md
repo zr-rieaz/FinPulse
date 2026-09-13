@@ -1,4 +1,4 @@
-# Finpulse 💰
+# Finpulse v.2.5.3 💰
 
 **Finpulse** is a modern, lightweight, and 100% offline personal finance tracker application built natively for Android. It helps users manage daily income, expenses, and monthly or yearly financial reports with maximum data privacy.
 
