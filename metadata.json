@@ -1,0 +1,8 @@
+{
+  "name": "FinPulse",
+  "description": "FinPulse v2.5.3 - Personal Finance & Budget Tracker. Developed by Rieaz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
